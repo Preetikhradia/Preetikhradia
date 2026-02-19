@@ -1,12 +1,20 @@
 # Hi there! 👋 I am PREETI !!
+<h3 align="center">Full Stack Software Engineer | Backend & Architecture Enthusiast</h3>
 
-I'm a recent graduate and a **Full Stack Developer** passionate about building highly scalable, secure web applications. I specialize in engineering robust, high-performance backends with **Java & Spring Boot** and crafting responsive user interfaces using **React & TypeScript**.
+<p align="center">
+  <b>Architecting scalable backends, designing secure APIs, and building responsive frontends.</b><br>
+  I am a highly driven developer passionate about engineering robust, enterprise-grade applications. With a strong foundation in Java and a relentless dedication to solving complex algorithmic problems, I thrive on writing clean, optimized code. When I'm not building full-stack systems or tackling advanced DSA challenges, I dedicate time to mentoring and tutoring students. 
+</p>
 
-- 🔭 **I’m currently working on:** A **Full-Stack CRM** application (React/TypeScript frontend, Spring Boot/JWT backend) and refining my personal **Portfolio Website**.
-- 💼 **I recently built:** A **Bookstore Management REST API** and a **Weather Application** using Java, Spring Boot, and Thymeleaf.
-- 🧠 **I'm consistently practicing:** Advanced **Data Structures & Algorithms (DSA)** in Java to tackle complex computational problems.
-- 🌱 **I’m currently expanding my skills in:** Microservices Architecture, Cloud Security, and distributed systems.
-- 🎯 **Goals:** Seeking full-time software engineering opportunities where I can leverage my full-stack expertise to build impactful products.
+<br>
+
+### 🚀 What I'm Up To
+
+- 🔭 **Currently Building:** A secure, high-performance **Full-Stack CRM** system utilizing a **Spring Boot/JWT** backend and a **React/TypeScript** frontend.
+- 🧠 **The Daily Grind:** Consistently mastering Advanced **Data Structures & Algorithms (DSA)** in Java to ensure I write highly efficient, scalable code.
+- 🛡️ **Deep Diving Into:** Microservices Architecture, Cloud Security, and distributed systems design.
+- 💼 **Recent Shipping:** Engineered a **Bookstore Management REST API** and a dynamic **Weather Application** using the Java ecosystem.
+- 🎯 **Career Goal:** Seeking a high-impact Software Engineering role where I can tackle complex technical challenges and contribute to large-scale products.
 
 ---
 
