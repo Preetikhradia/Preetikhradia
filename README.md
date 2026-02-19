@@ -7,17 +7,6 @@
 </p>
 
 <br>
-
-### 🚀 What I'm Up To
-
-- 🔭 **Currently Building:** A secure, high-performance **Full-Stack CRM** system utilizing a **Spring Boot/JWT** backend and a **React/TypeScript** frontend.
-- 🧠 **The Daily Grind:** Consistently mastering Advanced **Data Structures & Algorithms (DSA)** in Java to ensure I write highly efficient, scalable code.
-- 🛡️ **Deep Diving Into:** Microservices Architecture, Cloud Security, and distributed systems design.
-- 💼 **Recent Shipping:** Engineered a **Bookstore Management REST API** and a dynamic **Weather Application** using the Java ecosystem.
-- 🎯 **Career Goal:** Seeking a high-impact Software Engineering role where I can tackle complex technical challenges and contribute to large-scale products.
-
----
-
 ### 🛠️ Tech Stack
 
 **Frontend Development**
