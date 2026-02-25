@@ -3,7 +3,7 @@
 
 <p align="center">
   <b>Architecting scalable backends, designing secure APIs, and building responsive frontends.</b><br>
-  I am a highly driven developer passionate about engineering robust, enterprise-grade applications. With a strong foundation in Java and a relentless dedication to solving complex algorithmic problems, I thrive on writing clean, optimized code. When I'm not building full-stack systems or tackling advanced DSA challenges, I dedicate time to mentoring and tutoring students. 
+  I am a highly driven developer passionate about engineering robust, enterprise-grade applications. With a strong foundation in Java and a relentless dedication to solving complex algorithmic problems, I thrive on writing clean, optimized code. When I'm not building full-stack systems or tackling advanced DSA challenges.
 </p>
 
 <br>
