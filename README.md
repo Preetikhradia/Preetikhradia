@@ -9,7 +9,7 @@
   <a href="mailto:khradiapreeti@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://preetikhradia.github.io/portfolio/">
+  <a href=" https://github.com/Preetikhradia/Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-f0b429?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Preetikhradia&style=for-the-badge&color=f0b429&label=PROFILE+VIEWS" />
