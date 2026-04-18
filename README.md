@@ -21,29 +21,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F0B429&center=true&vCenter=true&width=600&lines=Java+Developer+%7C+Spring+Boot+%7C+REST+APIs;Building+backends+that+scale.;500%2B+users+served+in+production.;Open+to+Java+Developer+roles+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
----
+
+ 
 
 ## 👩‍💻 About Me
 
-```java
-public class Preeti extends JavaDeveloper {
+> **Most developers wait until they're "ready" to start building. I started before graduation.**
 
-    String name     = "Preeti Khradia";
-    String role     = "Java Full Stack Developer";
-    String location = "Hansi, Haryana, India 🇮🇳";
-    String email    = "khradiapreeti@gmail.com";
+I'm a **Java Developer**. That means I can take a product idea and build it: backend architecture with Spring Boot, clean APIs that users can actually navigate. I care about code that works in production, not just on my laptop.
 
-    String[] currentlyDoing = {
-        "Building scalable backends with Spring Boot",
-        "Securing APIs with JWT & Spring Security",
-        "Open to Java Developer opportunities"
-    };
+My background in **Electronics Engineering** taught me to think in systems: how components connect, where failures happen, and how to build things that don't break. I also have a **cybersecurity lens**: I understand how systems get broken, which makes me more careful about how I build them. 
 
-    String superpower = "ECE background → thinking in systems, building like an engineer";
-}
-` ` `
+I'm currently looking for a Java developer role where I can contribute fast, keep learning, and work on problems that matter.
 
----
+📫 **If you're hiring or just want to talk tech — my inbox is open:** [khradiapreeti@gmail.com](mailto:khradiapreeti@gmail.com)
+
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -77,102 +70,6 @@ public class Preeti extends JavaDeveloper {
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
----
+ 
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🧩 Full-Stack CRM Application</h3>
-      <p>End-to-end customer lifecycle management. Spring Boot backend · React/TypeScript frontend · JWT auth · MongoDB.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-      </p>
-      <p>✅ Zero data breaches &nbsp;|&nbsp; ⚡ 40% faster builds</p>
-      <a href="#">→ View Repo</a>
-    </td>
-    <td width="50%">
-      <h3>💰 Finance Management Dashboard</h3>
-      <p>Automated expense tracker replacing manual spreadsheets. In-memory processing · budget alerts · RBAC access control.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white" />
-      </p>
-      <p>⏱️ 70% time saved on financial reporting</p>
-      <a href="#">→ View Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🏫 ERP & College Management System</h3>
-      <p>Enterprise-grade institution workflow. Users, roles, resources — deployed in production for 500+ active users.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-      </p>
-      <p>👥 500+ users &nbsp;|&nbsp; 🔐 RBAC · zero unauthorized access</p>
-      <a href="#">→ View Repo</a>
-    </td>
-    <td width="50%">
-      <h3>🌐 3D Developer Portfolio</h3>
-      <p>Personal portfolio with Three.js 3D particles, glitch animations, custom cursor, scroll reveals. Zero dependencies.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-      </p>
-      <p>✨ 1,800 animated particles · magnetic cursor</p>
-      <a href="https://preetikhradia.github.io/portfolio/">→ Live Site</a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Preetikhradia&show_icons=true&theme=dark&title_color=f0b429&icon_color=f0b429&text_color=ffffff&bg_color=0d0d0d&border_color=f0b429&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Preetikhradia&theme=dark&background=0d0d0d&ring=f0b429&fire=f0b429&currStreakLabel=f0b429&border=f0b429" />
-</div>
-
-<div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetikhradia&layout=compact&theme=dark&title_color=f0b429&text_color=ffffff&bg_color=0d0d0d&border_color=f0b429&langs_count=8" />
-</div>
-
----
-
-## 🏆 Certifications
-
-| Certification | Issuer |
-|---|---|
-| ☕ Java (Basic) | HackerRank |
-| 🌐 REST API (Intermediate) | HackerRank |
-| 👨‍💻 Software Engineer | HackerRank |
-| 🔐 Introduction to Encryption | Security Fundamentals |
-| 🛡️ Introduction to Cybersecurity | Cisco |
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Preetikhradia&bg_color=0d0d0d&color=f0b429&line=f0b429&point=ffffff&area=true&hide_border=false&border_color=f0b429" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f0b429&height=120&section=footer&text=Open%20to%20Java%20Developer%20Roles&fontSize=20&fontColor=000000&fontAlignY=65" />
-</div>
-```
-
-> ⚠️ **Before pasting** — in the `About Me` code block, remove the spaces between the 3 backticks at the closing line (shown as `` ` ` ` `` here to avoid breaking the display). It should be ` ``` ` with no spaces.
+ 
